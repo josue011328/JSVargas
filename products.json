@@ -1,0 +1,21 @@
+
+[
+  {
+    "title": "Fone Bluetooth Xiaomi",
+    "price": "R$ 89,90",
+    "link": "https://shopee.com.br/exemplo-fone",
+    "image": "https://via.placeholder.com/250x250?text=Fone+Xiaomi"
+  },
+  {
+    "title": "Relógio Inteligente",
+    "price": "R$ 129,00",
+    "link": "https://amazon.com.br/exemplo-relogio",
+    "image": "https://via.placeholder.com/250x250?text=Smartwatch"
+  },
+  {
+    "title": "Tênis Esportivo Masculino",
+    "price": "R$ 159,99",
+    "link": "https://mercadolivre.com.br/exemplo-tenis",
+    "image": "https://via.placeholder.com/250x250?text=T%C3%AAnis"
+  }
+]
